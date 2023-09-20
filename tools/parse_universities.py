@@ -9,8 +9,8 @@ def read_file( filename: str, outp_filename: str ):
 
     with open( filename ) as csvfile:
         reader = csv.reader( csvfile, delimiter=',' )
-        i += 1
         for row in reader:
+            i += 1
             ( country, name, url ) = row[0:3]
             f.write( f"{i};{country};{name};{url}\n" )
 
