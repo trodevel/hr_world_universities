@@ -85,13 +85,13 @@
 85;AL;Beder University;http://www.beder.edu.al/
 86;AL;Epoka University;http://www.epoka.edu.al/
 87;AL;Polytechnic University of Tirane;http://www.upt.al/
-88;AL;University of Elbasan "Aleksander Xhuvani";http://www.uniel.edu.al/
-89;AL;University of Gjirokstra "Eqerem Cabej";http://www.uogj.edu.al/
-90;AL;University of Korca "Fan Noli";http://www.unkorce.edu.al/
+88;AL;"University of Elbasan ""Aleksander Xhuvani""";http://www.uniel.edu.al/
+89;AL;"University of Gjirokstra ""Eqerem Cabej""";http://www.uogj.edu.al/
+90;AL;"University of Korca ""Fan Noli""";http://www.unkorce.edu.al/
 91;AL;University of New York Tirana;http://www.unyt.edu.al/
-92;AL;University of Shkodra "Luigj Gurakuqi";http://www.unishk.edu.al/
+92;AL;"University of Shkodra ""Luigj Gurakuqi""";http://www.unishk.edu.al/
 93;AL;University of Tirana;http://www.unitir.edu.al/
-94;AL;University of Vlora "Ismail Qemali";http://www.univlora.edu.al/
+94;AL;"University of Vlora ""Ismail Qemali""";http://www.univlora.edu.al/
 95;AL;University “Pavaresia” Vlore;http://www.unipavaresia.edu.al/
 96;AM;American University of Armenia;http://www.aua.am/
 97;AM;Armenian State Agrarian University;http://www.asau.am/
@@ -119,7 +119,7 @@
 119;AO;Universidade Tecnica de Angola;http://www.utanga.co.ao/
 120;AO;Univesidade Agostinho Neto;http://www.uan.ao/
 121;AR;Instituto de Enseñanza Superior del Ejército;http://www.iese.edu.ar/
-122;AR;Instituto Nacional de Educación Física "General Manuel Belgrano";http://www.unlu.edu.ar/Belgrano.htm
+122;AR;"Instituto Nacional de Educación Física ""General Manuel Belgrano""";http://www.unlu.edu.ar/Belgrano.htm
 123;AR;Instituto Tecnológico de Buenos Aires;http://www.itba.edu.ar/
 124;AR;Instituto Universitario Aeronáutico;http://www.iua.edu.ar/
 125;AR;Instituto Universitario CEMA;http://www.cema.edu.ar/
@@ -130,7 +130,7 @@
 130;AR;Universidad Abierta Interamericana;http://www.vaneduc.edu.ar/uai/
 131;AR;Universidad Adventista del Plata;http://www.uapar.edu/
 132;AR;Universidad Argentina de la Empresa;http://www.uade.edu.ar/
-133;AR;Universidad Argentina "John F. Kennedy";http://www.kennedy.edu.ar/
+133;AR;"Universidad Argentina ""John F. Kennedy""";http://www.kennedy.edu.ar/
 134;AR;Universidad Atlantida Argentina;http://www.atlantida.edu.ar/
 135;AR;Universidad Austral Buenos Aires;http://www.austral.edu.ar/
 136;AR;Universidad Autónoma de Entre Ríos;http://www.uader.edu.ar/
@@ -158,7 +158,7 @@
 158;AR;Universidad del Centro Educativo Latinoamericano Rosario;http://www.ucel.edu.ar/
 159;AR;Universidad del Cine - Buenos Aires;http://www.ucine.edu.ar/
 160;AR;Universidad del Museo Social Argentino;http://www.umsa.edu.ar/
-161;AR;Universidad del Norte "Santo Tomás de Aquino";http://www.unsta.edu.ar/
+161;AR;"Universidad del Norte ""Santo Tomás de Aquino""";http://www.unsta.edu.ar/
 162;AR;Universidad del Salvador;http://www.salvador.edu.ar/
 163;AR;Universidad de Mendoza;http://www.um.edu.ar/
 164;AR;Universidad de Morón;http://www.unimoron.edu.ar/
@@ -166,7 +166,7 @@
 166;AR;Universidad de San Andres;http://www.udesa.edu.ar/
 167;AR;Universidad Empresarial Siglio 21;http://www.uesiglo21.edu.ar/
 168;AR;Universidad ISALUD;http://www.isalud.edu.ar/
-169;AR;Universidad "Juan Agustín Maza";http://www.umaza.edu.ar/
+169;AR;"Universidad ""Juan Agustín Maza""";http://www.umaza.edu.ar/
 170;AR;Universidad Maimónides;http://www.maimonides.edu.ar/
 171;AR;Universidad Nacional de Catamarca;http://www.unca.edu.ar/
 172;AR;Universidad Nacional de Córdoba;http://www.unc.edu.ar/
@@ -180,7 +180,7 @@
 180;AR;Universidad Nacional de Lanus;http://www.unla.edu.ar/
 181;AR;Universidad Nacional de La Pampa;http://www.unlpam.edu.ar/
 182;AR;Universidad Nacional de la Patagonia Austral;http://www.unpa.edu.ar/
-183;AR;Universidad Nacional de la Patagonia "San Juan Bosco";http://www.unp.edu.ar/
+183;AR;"Universidad Nacional de la Patagonia ""San Juan Bosco""";http://www.unp.edu.ar/
 184;AR;Universidad Nacional de La Plata;http://www.unlp.edu.ar/
 185;AR;Universidad Nacional de La Rioja;http://www.unlar.edu.ar/
 186;AR;Universidad Nacional del Centro de la Provincia de Buenos Aires;http://www.unicen.edu.ar/
@@ -339,7 +339,7 @@
 339;BA;University of Tuzla;http://www.untz.ba/
 340;BA;University of Zenica;http://www.unze.ba/
 341;BA;University Vitez In Travnik;http://www.unvi.edu.ba/
-342;BA;Univerzitet u Mostaru "Dzemal Bijedic";http://www.unmo.ba/
+342;BA;"Univerzitet u Mostaru ""Dzemal Bijedic""";http://www.unmo.ba/
 343;BB;University of the West Indies, Cave Hill;http://www.uwichill.edu.bb/
 344;BD;Ahsanullah University of Science & Technology;http://www.aust.edu/
 345;BD;American International University - Bangladesh;http://www.aiub.edu/
@@ -463,12 +463,12 @@
 463;BE;Vlerick Leuven Gent Management School;http://www.vlerick.be/
 464;BE;Vrije Universiteit Brussel;http://www.vub.ac.be/
 465;BF;Université de Ouagadougou;http://www.univ-ouaga.bf/
-466;BG;Academy of Economics "Dimitur A. Tscenov";http://www.uni-svishtov.bg/
+466;BG;"Academy of Economics ""Dimitur A. Tscenov""";http://www.uni-svishtov.bg/
 467;BG;Academy of Music, Dance and Fine Arts;http://amti.hit.bg/
 468;BG;Agricultural University of Plovdiv;http://www.au-plovdiv.bg/
 469;BG;American University in Bulgaria;http://www.aubg.bg/
 470;BG;Bourgas Free University;http://www.bfu.bg/
-471;BG;Bourgas University "Prof. Assen Zlatarov";http://www.btu.bg/
+471;BG;"Bourgas University ""Prof. Assen Zlatarov""";http://www.btu.bg/
 472;BG;City University Programs in Bulgaria ;http://www.cityu.bg/
 473;BG;International University College;http://www.vumk.eu/
 474;BG;Medical University of Sofia;http://www.mu-sofia.bg/
@@ -476,14 +476,14 @@
 476;BG;Medical University Plovdiv;http://www.meduniversity-plovdiv.bg/
 477;BG;Medical University Varna;http://www.mu-varna.bg/
 478;BG;Military University Shoumen;http://www.pv-ma.bg/
-479;BG;National Academy for Theatre and Film Arts "Krustju Sarafov";http://www.natfiz.bg/
+479;BG;"National Academy for Theatre and Film Arts ""Krustju Sarafov""";http://www.natfiz.bg/
 480;BG;National Academy of Arts;http://www.nha-bg.org/
-481;BG;National Academy of Music "Pantcho Vladigerov";http://www.nma.bg/
+481;BG;"National Academy of Music ""Pantcho Vladigerov""";http://www.nma.bg/
 482;BG;National Sports Academy Sofia;http://www.nsa.bg/
 483;BG;New Bulgarian University;http://www.nbu.bg/
-484;BG;Shoumen University "Konstantin Preslavski";http://www.shu-bg.net/
-485;BG;Sofia University "St. Kliment Ohridski";http://www.uni-sofia.bg/
-486;BG;South-West University "Neofit Rilski";http://www.swu.bg/
+484;BG;"Shoumen University ""Konstantin Preslavski""";http://www.shu-bg.net/
+485;BG;"Sofia University ""St. Kliment Ohridski""";http://www.uni-sofia.bg/
+486;BG;"South-West University ""Neofit Rilski""";http://www.swu.bg/
 487;BG;Technical University of Gabrovo;http://www.tugab.bg/
 488;BG;Technical University of Sofia;http://www.tu-sofia.bg/
 489;BG;Technical University of Varna;http://www.tu-varna.acad.bg/
@@ -493,12 +493,12 @@
 493;BG;University of Economics Varna;http://www.ue-varna.bg/
 494;BG;University of Food Technology;http://www.uft-plovdiv.bg/
 495;BG;University of Forestry Sofia;http://www.ltu.bg/
-496;BG;University of Mining and Geology "St. Ivan Rils";http://www.mgu.bg/
+496;BG;"University of Mining and Geology ""St. Ivan Rils""";http://www.mgu.bg/
 497;BG;University of National and World Economy;http://www.unwe.acad.bg/
 498;BG;University of Plovdiv;http://www.uni-plovdiv.bg/
 499;BG;University of Rousse;http://www.ru.acad.bg/
 500;BG;Varna Free University;http://www.vfu.bg/
-501;BG;Veliko Turnovo University "Cyril and Methodius";http://www.uni-vt.bg/
+501;BG;"Veliko Turnovo University ""Cyril and Methodius""";http://www.uni-vt.bg/
 502;BH;Al Ahlia University;http://www.ahliauniversity.org/
 503;BH;Ama International University;http://www.amaiu.edu.bh/
 504;BH;Applied Science University;http://www.asu.edu.bh/
@@ -525,7 +525,7 @@
 525;BO;Universidad Adventista de Bolivia;http://www.uab.edu.bo/
 526;BO;Universidad Amazonica de Pando;http://www.uapnet.edu.bo/
 527;BO;Universidad Andina Simón Bolivar;http://www.uasb.edu.bo/
-528;BO;Universidad Autónoma del Beni "José Ballivián";http://www.uabjb.edu.bo/
+528;BO;"Universidad Autónoma del Beni ""José Ballivián""";http://www.uabjb.edu.bo/
 529;BO;Universidad Autónoma Gabriel René Moreno;http://www.uagrm.edu.bo/
 530;BO;Universidad Autónoma Juan Misael Saracho;http://www.uajms.edu.bo/
 531;BO;Universidad Autónoma Tomás Frías;http://www.uatf.edu.bo/
@@ -960,7 +960,7 @@
 960;CH;Swiss Federal Institute of Technology, Lausanne;http://www.epfl.ch/
 961;CH;Swiss Federal Institute of Technology, Zurich;http://www.ethz.ch/
 962;CH;Swiss Management Center;http://www.swissmc.ch/
-963;CH;University Center "César Ritz";http://www.uccr.edu/
+963;CH;"University Center ""César Ritz""";http://www.uccr.edu/
 964;CH;University of Applied Sciences Aargau;http://www.fh-aargau.ch/
 965;CH;University of Applied Sciences Basel (FHBB );http://www.fhbb.ch/
 966;CH;University of Applied Sciences Chur;http://www.fh-htachur.ch/
@@ -987,12 +987,12 @@
 987;CL;Pontificia Universidad Catolica de Chile;http://www.puc.cl/
 988;CL;Universidad Academia de Humanismo Cristiano;http://www.academia.cl/
 989;CL;Universidad Academia de Humanismo Cristiano;http://www.academia.cl/
-990;CL;Universidad "Adolfo Ibañez";http://www.uai.cl/
+990;CL;"Universidad ""Adolfo Ibañez""";http://www.uai.cl/
 991;CL;Universidad Adolfo Ibáñez;http://www.uai.cl/
 992;CL;Universidad Adventista de Chile;http://www.unachile.cl/
 993;CL;Universidad Alberto Hurtado;http://www.uahurtado.cl/
 994;CL;Universidad Arcis;http://www.universidadarcis.cl/
-995;CL;Universidad "Arturo Prat";http://www.unap.cl/
+995;CL;"Universidad ""Arturo Prat""";http://www.unap.cl/
 996;CL;Universidad Austral de Chile;http://www.uach.cl/
 997;CL;Universidad Autonoma del Sur;http://www.uas.cl/
 998;CL;Universidad Bernardo O'Higgins;http://www.ubohiggins.cl/
@@ -1045,9 +1045,9 @@
 1045;CL;Universidad Nacional Andrés Bello;http://www.unab.cl/
 1046;CL;Universidad San Sebastian;http://www.uss.cl/
 1047;CL;Universidad Santo Tomás;http://www.ust.cl/
-1048;CL;Universidad Técnica "Federico Santa María";http://www.utfsm.cl/
+1048;CL;"Universidad Técnica ""Federico Santa María""";http://www.utfsm.cl/
 1049;CL;Universidad Tecnológica Metropolitana;http://www.utem.cl/
-1050;CL;Universidad Tecnologica "Vicente Perez Rosales";http://www.uvipro.cl/
+1050;CL;"Universidad Tecnologica ""Vicente Perez Rosales""";http://www.uvipro.cl/
 1051;CM;Bamenda University of Science & Technology;http://www.bamendauniversity.com/
 1052;CM;Fomic Polytechnic;http://www.fomicgroup.cm/
 1053;CM;Université de Bamenda;http://www.unibda.net/
@@ -1450,7 +1450,7 @@
 1450;CO;Centro de Estudios Investigación y Tecnología (CEIT);http://www.iceit.edu.co/
 1451;CO;Colegio de Estudios Superiores de Administración (CESA);http://www.cesa.edu.co/
 1452;CO;Conservatorio del Tolima;http://www.bundenet.com/umusical/
-1453;CO;Corporación Educativa Mayor del Desarrollo "Simón Bolivar";http://www.unisimonbolivar.edu.co/
+1453;CO;"Corporación Educativa Mayor del Desarrollo ""Simón Bolivar""";http://www.unisimonbolivar.edu.co/
 1454;CO;Corporación Universitaria de Ibagué (CORUNIVERSITARIA);http://www.cui.edu.co/
 1455;CO;Corporación Universitaria de la Costa (UNICOSTA);http://www.cuc.edu.co/
 1456;CO;Corporación Universitaria de Santander (UDES);http://www.udes.edu.co/
@@ -1459,7 +1459,7 @@
 1459;CO;Escuela Colombiana de Ingeniería Julio Garavito;http://www.escuelaing.edu.co/
 1460;CO;Escuela de Administración de Negocios;http://www.ean.edu.co/
 1461;CO;Escuela de Ingeniería de Antioquia;http://www.eia.edu.co/
-1462;CO;Escuela de Policia "General Santander";http://www.escueladepolicia.edu.co/
+1462;CO;"Escuela de Policia ""General Santander""";http://www.escueladepolicia.edu.co/
 1463;CO;Escuela Superiore de Administración Pública;http://www.esap.edu.co/
 1464;CO;Fundacion Escuela Colombiana de Rehabiliación;http://www.ecr.edu.co/
 1465;CO;Fundación Universitaria de Boyacá;http://www.uniboyaca.edu.co/
@@ -1471,7 +1471,7 @@
 1471;CO;Institución Universitaria Iberoamericana;http://www.iberoamericana.edu.co/
 1472;CO;Instituto Tecnológico Metropolitano;http://www.itm.edu.co/
 1473;CO;Instituto Universitario de La Paz;http://www.unipaz.edu.co/
-1474;CO;Politécnico Columbiano "Jaime Isaza Cadavid";http://www.politecjic.edu.co/
+1474;CO;"Politécnico Columbiano ""Jaime Isaza Cadavid""";http://www.politecjic.edu.co/
 1475;CO;Politécnico Grancolombiano - Institución Universitaria;http://www.poligran.edu.co/
 1476;CO;Pontificia Universidad Javeriana;http://www.javeriana.edu.co/
 1477;CO;Universidad Adventista de Colombia;http://www.unac.edu.co/
@@ -1496,7 +1496,7 @@
 1496;CO;Universidad de América Bogotá;http://www.uamerica.edu.co/
 1497;CO;Universidad de Antioquia;http://www.udea.edu.co/
 1498;CO;Universidad de Antioquía;http://www.udea.edu.co/
-1499;CO;Universidad de Bogotá "Jorge Tadeo Lozano";http://www.utadeo.edu.co/
+1499;CO;"Universidad de Bogotá ""Jorge Tadeo Lozano""";http://www.utadeo.edu.co/
 1500;CO;Universidad de Caldas;http://www.ucaldas.edu.co/
 1501;CO;Universidad de Cartagena;http://www.unicartagena.edu.co/
 1502;CO;Universidad de Ciencias Aplicadas y Ambientales (UDCA);http://www.udca.edu.co/
@@ -1523,7 +1523,7 @@
 1523;CO;Universidad de San Buenaventura;http://www.usb.edu.co/
 1524;CO;Universidad de San Buenaventura Medellin;http://www.usbmed.edu.co/
 1525;CO;Universidad de Sucre;http://www.unisucre.edu.co/
-1526;CO;Universidad Distral "Francisco José de Caldas";http://www.udistrital.edu.co/
+1526;CO;"Universidad Distral ""Francisco José de Caldas""";http://www.udistrital.edu.co/
 1527;CO;Universidad EAFIT;http://www.eafit.edu.co/
 1528;CO;Universidad El Bosque;http://www.unbosque.edu.co/
 1529;CO;Universidad Externado de Colombia;http://www.uexternado.edu.co/
@@ -1547,7 +1547,7 @@
 1547;CO;Universidad Santo Tomás;http://www.usta.edu.co/
 1548;CO;Universidad Sergio Arboleda;http://www.usergioarboleda.edu.co/
 1549;CO;Universidad Surcolombiana;http://www.usurcolombia.com/
-1550;CO;Universidad Tecnológica del Choco "Diego Luis Cordoba";http://www.utch.edu.co/
+1550;CO;"Universidad Tecnológica del Choco ""Diego Luis Cordoba""";http://www.utch.edu.co/
 1551;CO;Universidad Tecnológica de Pereira;http://www.utp.edu.co/
 1552;CR;Instituto Tecnológico de Costa Rica;http://www.itcr.ac.cr/
 1553;CR;Universidad Adventista de Centro América;http://www.unadeca.ac.cr/
@@ -1581,7 +1581,7 @@
 1581;CR;Universidad Santa Paula;http://www.uspsantapaula.com/
 1582;CR;Universidad Veritas;http://www.uveritas.ac.cr/
 1583;CR;University for Peace;http://www.upeace.org/
-1584;CU;Instituto Superior Minero Metalúrgico "Dr. Antonio Núñez Jiménez";http://www.ismm.edu.cu/
+1584;CU;"Instituto Superior Minero Metalúrgico ""Dr. Antonio Núñez Jiménez""";http://www.ismm.edu.cu/
 1585;CU;Instituto Superior Politécnico José Antonio Echeverría;http://www.cujae.edu.cu/
 1586;CU;Universidad Central de Las Villas;http://www.uclv.edu.cu/
 1587;CU;Universidad de Camagüey;http://www.reduc.edu.cu/
@@ -1593,7 +1593,7 @@
 1593;CU;Universidad de Matanzas Camilo Cienfuegos;http://www.umcc.cu/
 1594;CU;Universidad de Oriente;http://www.uo.edu.cu/
 1595;CU;Universidad de Pinar del Río;http://www.upr.edu.cu/
-1596;CU;Universidad Pedagógica "José Martí", Camagüey;http://www.ispcmw.rimed.cu/
+1596;CU;"Universidad Pedagógica ""José Martí"", Camagüey";http://www.ispcmw.rimed.cu/
 1597;CV;Universidade Jean Piaget de Cabo Verde;http://cv.unipiaget.org/
 1598;CY;Americanos College;http://www.ac.ac.cy/
 1599;CY;Cyprus College;http://www.cycollege.ac.cy/
@@ -1671,7 +1671,7 @@
 1671;DE;Evangelische Fachhochschule Darmstadt;http://www.efh-darmstadt.de/
 1672;DE;Evangelische Fachhochschule Freiburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik;http://www.efh-freiburg.de/
 1673;DE;Evangelische Fachhochschule für Religionspädagogik, und Gemeindediakonie Moritzburg;http://www.fhs-moritzburg.de/
-1674;DE;Evangelische Fachhochschule für Sozialpädagogik der "Diakonenanstalt des Rauhen Hauses" Hamburg;http://www.rauheshaus.de/fachhochschule/
+1674;DE;"Evangelische Fachhochschule für Sozialpädagogik der ""Diakonenanstalt des Rauhen Hauses"" Hamburg";http://www.rauheshaus.de/fachhochschule/
 1675;DE;Evangelische Fachhochschule Hannover;http://www.efh-hannover.de/
 1676;DE;Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen;http://www.efhlu.de/
 1677;DE;Evangelische Fachhochschule Nürnberg;http://www.evfh-nuernberg.de/
@@ -2038,8 +2038,8 @@
 2038;EC;Universidad Estatal de Bolívar;http://www.ueb.isfun.net/
 2039;EC;Universidad Internacional del Ecuador;http://www.internacional.edu.ec/
 2040;EC;Universidad Internacional SEK, Quito;http://www.sek.edu/html/ecuador.html
-2041;EC;Universidad Laica "Eloy Alfaro" de Manabi;http://www.uleam.edu.ec/
-2042;EC;Universidad Laica "Vicente Rocafuerte" de Guayaquil;http://www.ulaicavr.com/
+2041;EC;"Universidad Laica ""Eloy Alfaro"" de Manabi";http://www.uleam.edu.ec/
+2042;EC;"Universidad Laica ""Vicente Rocafuerte"" de Guayaquil";http://www.ulaicavr.com/
 2043;EC;Universidad Nacional de Chimborazo;http://www.unach.edu.ec/
 2044;EC;Universidad Nacional de Loja;http://www.unl.edu.ec/
 2045;EC;Universidad Politécnica Salesiana;http://www.ups.edu.ec/
@@ -2048,7 +2048,7 @@
 2048;EC;Universidad Técnica de Ambato;http://www.uta.edu.ec/
 2049;EC;Universidad Técnica de Babahoyo;http://www.utb.edu.ec/
 2050;EC;Universidad Técnica de Cotopaxi;http://www.utc.edu.ec/
-2051;EC;Universidad Técnica de Esmeraldas "Luis Vargas Torres";http://www.utelvt.edu.ec/
+2051;EC;"Universidad Técnica de Esmeraldas ""Luis Vargas Torres""";http://www.utelvt.edu.ec/
 2052;EC;Universidad Técnica del Norte;http://www.utn.edu.ec/
 2053;EC;Universidad Técnica de Machala;http://www.utmachala.edu.ec/
 2054;EC;Universidad Técnica de Manabí;http://www.utm.edu.ec/
@@ -2828,7 +2828,7 @@
 2828;HN;Universidad José Cecilio del Valle;http://www.ujcv.edu.hn/
 2829;HN;Universidad Metropolitana de Honduras;http://www.unimetro.edu.hn/
 2830;HN;Universidad Nacional Autónoma de Honduras;http://www.unah.edu.hn/
-2831;HN;Universidad Pedagógica Nacional "Francisco Morazán";http://www.upnfm.edu.hn/
+2831;HN;"Universidad Pedagógica Nacional ""Francisco Morazán""";http://www.upnfm.edu.hn/
 2832;HN;Universidad Tecnológica Centroamericana;http://www.unitec.edu/
 2833;HN;Universidad Tecnológica de Honduras;http://www.uth.hn/
 2834;HR;University of Dubrovnik;http://www.unidu.hr/
@@ -3025,7 +3025,7 @@
 3025;ID;Universitas Pattimura;http://www.unpatti.ac.id/
 3026;ID;Universitas Pekalongan;http://www.unikal.ac.id/
 3027;ID;Universitas Pelita Harapan;http://www.uph.edu/
-3028;ID;Universitas Pembangunan Nasional "Veteran" East Java;http://www.upnjatim.ac.id/
+3028;ID;"Universitas Pembangunan Nasional ""Veteran"" East Java";http://www.upnjatim.ac.id/
 3029;ID;Universitas Pembangunan Panca Budi;http://www.pancabudi.ac.id/
 3030;ID;Universitas Pendidikan Indonesia;http://www.upi.edu/
 3031;ID;Universitas Persada Indonesia Y.A.I;http://www.yai.ac.id/
@@ -3728,8 +3728,8 @@
 3728;IT;European University Institute;http://www.iue.it/
 3729;IT;Fondazione Sacro Cuore;http://www.sacrocuore.org/
 3730;IT;Free International University of Social Studies;http://www.luiss.it/
-3731;IT;Free University Institute "Carlo Cattaneo";http://www.liuc.it/
-3732;IT;Free University "Maria Santissima Assunta";http://www.lumsa.it/
+3731;IT;"Free University Institute ""Carlo Cattaneo""";http://www.liuc.it/
+3732;IT;"Free University ""Maria Santissima Assunta""";http://www.lumsa.it/
 3733;IT;Free University of Bozen;http://www.unibz.it/
 3734;IT;Higher School of University and Advanced Studies Pisa;http://www.sssup.it/
 3735;IT;Institute for Advanced Studies Lucca;http://www.imtlucca.it/
@@ -3757,7 +3757,7 @@
 3757;IT;University Institute of Modern Languages;http://www.iulm.it/
 3758;IT;University Institute of Naval Studies;http://www.uninav.it/
 3759;IT;University Institute of Oriental Studies;http://www.iuo.it/
-3760;IT;University Institute of Teacher Training "Suor Orsola Benincasa";http://www.unisob.na.it/
+3760;IT;"University Institute of Teacher Training ""Suor Orsola Benincasa""";http://www.unisob.na.it/
 3761;IT;University of Ancona;http://www.unian.it/
 3762;IT;University of Aquila;http://www.univaq.it/
 3763;IT;University of Bari;http://www.uniba.it/
@@ -3794,8 +3794,8 @@
 3794;IT;University of Perugia;http://www.unipg.it/
 3795;IT;University of Pisa;http://www.unipi.it/
 3796;IT;University of Reggio Calabria;http://www.unirc.it/
-3797;IT;University of Roma "La Sapienza";http://www.uniroma1.it/
-3798;IT;University of Roma "Tor Vergata";http://www.uniroma2.it/
+3797;IT;"University of Roma ""La Sapienza""";http://www.uniroma1.it/
+3798;IT;"University of Roma ""Tor Vergata""";http://www.uniroma2.it/
 3799;IT;University of Salerno;http://www.unisa.it/
 3800;IT;University of Sannio;http://www.unisannio.it/
 3801;IT;University of Sassari;http://www.uniss.it/
@@ -4822,15 +4822,15 @@
 4822;MA;Université Sidi Mohammed Ben Abdellah;http://www.usmba.ac.ma/
 4823;MC;University of Southern Europe (Monaco Business School);http://www.riviera.fr/usehome.htm
 4824;MD;Academy of Economic Studies of Moldova;http://www.ase.md/
-4825;MD;Balti State University "Alecu Russo";http://www.usb.md/
+4825;MD;"Balti State University ""Alecu Russo""";http://www.usb.md/
 4826;MD;Comrat State University;http://www.kdu.md/
 4827;MD;Free International University of Moldova;http://www.ulim.md/
 4828;MD;Moldova Cooperative Trade University;http://www.uccm.md/
 4829;MD;Moldova State Agricultural University;http://www.uasm.md/
 4830;MD;Moldova State University;http://www.usm.md/
-4831;MD;Moldova State University of Medicine and Pharmacy "N. Testemitsanu";http://www.usmf.md/
+4831;MD;"Moldova State University of Medicine and Pharmacy ""N. Testemitsanu""";http://www.usmf.md/
 4832;MD;Moldova Technical University;http://www.utm.md/
-4833;MD;Pedagogical State University "Ion Creanga";http://upm.moldnet.md/
+4833;MD;"Pedagogical State University ""Ion Creanga""";http://upm.moldnet.md/
 4834;MD;Tiraspol State University;http://www.ust.md/
 4835;MD;University of Applied Sciences of Moldova;http://www.usam.md/
 4836;ME;University of Montenegro;http://www.ucg.cg.ac.yu/
@@ -4845,7 +4845,7 @@
 4845;MK;State University of Tetova;http://www.unite.edu.mk/
 4846;MK;St.Cyril and Methodius University;http://www.ukim.edu.mk/
 4847;MK;St.Kliment Ohridski University;http://www.uklo.edu.mk/
-4848;MK;University for Information Science and Technology  "St. Paul The Apostle" ;http://www.uist.edu.mk/
+4848;MK;"University for Information Science and Technology  ""St. Paul The Apostle"" ";http://www.uist.edu.mk/
 4849;MK;University Goce Delcev;http://www.ugd.edu.mk/
 4850;ML;Université de Bamako;http://www.ml.refer.org/u-bamako/
 4851;MM;International Theravada Buddhist Missionary University;http://www.itbmu.org.mm/
@@ -4939,8 +4939,8 @@
 4939;MX;Tecnologico de Baja California, Universidad;http://www.tecbc.mx/
 4940;MX;Universidad Anáhuac;http://www.anahuac.mx/
 4941;MX;Universidad Anáhuac del Sur;http://www.uas.mx/
-4942;MX;Universidad Autónoma Agraria "Antonio Narro";http://www.uaaan.mx/
-4943;MX;Universidad Autónoma "Benito Juárez" de Oaxaca;http://www.uabjo.mx/
+4942;MX;"Universidad Autónoma Agraria ""Antonio Narro""";http://www.uaaan.mx/
+4943;MX;"Universidad Autónoma ""Benito Juárez"" de Oaxaca";http://www.uabjo.mx/
 4944;MX;Universidad Autónoma de Aguascalientes;http://www.uaa.mx:8001/
 4945;MX;Universidad Autónoma de Baja California;http://www.uabc.mx/
 4946;MX;Universidad Autónoma de Baja California Sur;http://www.uabcs.mx/
@@ -5347,7 +5347,7 @@
 5347;NG;Western Delta University;http://www.wdu.edu.ng/
 5348;NG;Yaba College of Technology;http://www.yabatech.edu.ng/
 5349;NI;Universidad Americana;http://www.uam.edu.ni/
-5350;NI;Universidad Catolica "Redemptoris Mater";http://www.unica.edu.ni/
+5350;NI;"Universidad Catolica ""Redemptoris Mater""";http://www.unica.edu.ni/
 5351;NI;Universidad Central de Nicaragua;http://www.ucn.edu.ni/
 5352;NI;Universidad Centroamericana;http://www.uca.edu.ni/
 5353;NI;Universidad Centroamericana de Ciencias Empresariales (UCEM);http://www.ucem.edu.ni/
@@ -5836,7 +5836,7 @@
 5836;PL;Fine Arts Academy in Poznan;http://www.asp.poznan.pl/
 5837;PL;Fine Arts Academy in Warsaw;http://www.asp.waw.pl/
 5838;PL;Fine Arts Academy in Wroclaw;http://www.asp.wroc.pl/
-5839;PL;Fine Arts Academy "Jan Matejko" in Cracow;http://149.156.19.10/
+5839;PL;"Fine Arts Academy ""Jan Matejko"" in Cracow";http://149.156.19.10/
 5840;PL;Fine Arts Academy Wladyslaw Strzeminski in Lodz;http://www.asp.lodz.pl/
 5841;PL;French Institute of Management;http://www.ifg.com.pl/
 5842;PL;Gdansk Management College;http://www.wsz.pl/
@@ -5862,14 +5862,14 @@
 5862;PL;Medical Academy in Wroclaw;http://www.am.wroc.pl/
 5863;PL;Medical Academy Karol Marcinkowski in Poznan;http://www.usoms.poznan.pl/
 5864;PL;Medical Academy Ludwik Rydygier in Bydgoszcz;http://www.amb.bydgoszcz.pl/
-5865;PL;Music Academy "Felix Nowowiejski" in Bydgoszcz;http://www.amuz.bydgoszcz.pl/
-5866;PL;Music Academy "Fryderyk Chopin" in Warszaw;http://www.chopin.edu.pl/
-5867;PL;Music Academy "Ignacy Jana Paderewski" in Poznan;http://www.amuz.poznan.pl/
+5865;PL;"Music Academy ""Felix Nowowiejski"" in Bydgoszcz";http://www.amuz.bydgoszcz.pl/
+5866;PL;"Music Academy ""Fryderyk Chopin"" in Warszaw";http://www.chopin.edu.pl/
+5867;PL;"Music Academy ""Ignacy Jana Paderewski"" in Poznan";http://www.amuz.poznan.pl/
 5868;PL;Music Academy in Cracow;http://www.amuz.krakow.pl/
 5869;PL;Music Academy in Lodz;http://www.amuz.lodz.pl/
-5870;PL;Music Academy "Karol Lipinski" in Wroclaw;http://www.amuz.wroc.pl/
-5871;PL;Music Academy "Karol Szymanowski" in Katowice;http://www.am.katowice.pl/
-5872;PL;Music Academy "Stanislaw Moniuszko" in Gdansk;http://www.amuz.gda.pl/
+5870;PL;"Music Academy ""Karol Lipinski"" in Wroclaw";http://www.amuz.wroc.pl/
+5871;PL;"Music Academy ""Karol Szymanowski"" in Katowice";http://www.am.katowice.pl/
+5872;PL;"Music Academy ""Stanislaw Moniuszko"" in Gdansk";http://www.amuz.gda.pl/
 5873;PL;Nicolaus Copernicus University of Torun;http://www.uni.torun.pl/
 5874;PL;Pawel Wlodkowic University College in Plock;http://www.wlodkowic.pl/
 5875;PL;Pedagogical University of Bydgoszcz;http://www.wsp.bydgoszcz.pl/
@@ -5880,11 +5880,11 @@
 5880;PL;Pedagogical University of Slupsk;http://www.wsp.slupsk.pl/
 5881;PL;Pedagogical University of the Polish Association for Adult Education in Warsaw;http://www.wsptwpwaw.edu.pl/
 5882;PL;Pedagogical University of Zielona Gora;http://www.wsp.zgora.pl/
-5883;PL;Physical Education Academy "Eugeniusz Piasecki" in Poznan;http://www.awf.poznan.pl/
+5883;PL;"Physical Education Academy ""Eugeniusz Piasecki"" in Poznan";http://www.awf.poznan.pl/
 5884;PL;Physical Education Academy in Katowice;http://www.awf.katowice.pl/
 5885;PL;Physical Education Academy in Wroclaw;http://www.awf.wroc.pl/
-5886;PL;Physical Education Academy "Jedrzej Sniadecki" in Gdansk;http://www.awf.gda.pl/
-5887;PL;Physical Education Academy "Jozef Pilsudski" in Warsaw;http://www.awf.edu.pl/
+5886;PL;"Physical Education Academy ""Jedrzej Sniadecki"" in Gdansk";http://www.awf.gda.pl/
+5887;PL;"Physical Education Academy ""Jozef Pilsudski"" in Warsaw";http://www.awf.edu.pl/
 5888;PL;Polish-Japanese Institute of Information Technology in Warsaw;http://www.pjwstk.edu.pl/
 5889;PL;Polish Open University in Warsaw (WSZ/POU);http://www.wsz-pou.edu.pl/
 5890;PL;Polonia University in Czêstochowa;http://www.ap.edu.pl/
@@ -6060,14 +6060,14 @@
 6060;RO;1 December University of Alba Iulia;http://www.uab.ro/
 6061;RO;Academia de Studii Economice din Bucuresti;http://www.ase.ro/
 6062;RO;Academia Tehnica Militara;http://www.mta.ro/
-6063;RO;Academy of Arts "George Enescu" Iasi;http://www.arteiasi.ro/
-6064;RO;Academy of Music "Georghe Dima" Cluj-Napoca;http://www.amgd.eu/
+6063;RO;"Academy of Arts ""George Enescu"" Iasi";http://www.arteiasi.ro/
+6064;RO;"Academy of Music ""Georghe Dima"" Cluj-Napoca";http://www.amgd.eu/
 6065;RO;AISTEDA;http://www.aistedaab.ro/
 6066;RO;Babes-Bolyai University of Cluj-Napoca;http://www.ubbcluj.ro/
 6067;RO;Banat's University of Agricultural Sciences;http://www.usab-tm.ro/
 6068;RO;Constantin Brancoveanu University Pitesti;http://www.univcb.ro/
 6069;RO;Emanuel University;http://www.emanuel.ro/
-6070;RO;Institute of Architecture "Ion Mincu" Bucharest;http://www.iaim.ro/
+6070;RO;"Institute of Architecture ""Ion Mincu"" Bucharest";http://www.iaim.ro/
 6071;RO;Maritime University Constanta;http://www.universitateamaritima.ro/
 6072;RO;National Academy for Physical Education and Sports Bucharest;http://www.anefs-edu.ro/
 6073;RO;National School of Political and Administrative Studies Bucharest;http://www.snspa.ro/
@@ -6084,8 +6084,8 @@
 6084;RO;Technical University of Cluj-Napoca;http://www.utcluj.ro/
 6085;RO;Technical University of Iasi;http://www.tuiasi.ro/
 6086;RO;Technical University of Timisoara;http://www.utt.ro/
-6087;RO;Universitatea de Vest "Vasile Goldiş" ;http://www.uvvg.ro/
-6088;RO;University "Aurel Vlaicu" Arad;http://www.uav.ro/
+6087;RO;"Universitatea de Vest ""Vasile Goldiş"" ";http://www.uvvg.ro/
+6088;RO;"University ""Aurel Vlaicu"" Arad";http://www.uav.ro/
 6089;RO;University Lucian Blaga of Sibiu;http://www.ulbsibiu.ro/
 6090;RO;University of Agriculture and Veterinary Medicine Bucharest;http://www.usab.ro/
 6091;RO;University of Agriculture and Veterinary Medicine Cluj-Napoca;http://www.usamvcluj.ro/
@@ -6113,10 +6113,10 @@
 6113;RO;University of Suceava;http://www.usv.ro/
 6114;RO;University of Targu Jiu;http://www.utgjiu.ro/
 6115;RO;University Oil- Gas Ploiesti;http://www.upg-ploiesti.ro/
-6116;RO;University "Petre Andrei" Iasi;http://www.upa.ro/
+6116;RO;"University ""Petre Andrei"" Iasi";http://www.upa.ro/
 6117;RO;University Politehnica of Bucharest;http://www.pub.ro/
-6118;RO;University "Titu Maiorescu";http://www.utm.ro/
-6119;RO;University "Transilvany" of Brasov;http://www.unitbv.ro/
+6118;RO;"University ""Titu Maiorescu""";http://www.utm.ro/
+6119;RO;"University ""Transilvany"" of Brasov";http://www.unitbv.ro/
 6120;RO;Valahia University of Targoviste;http://www.valahia.ro/
 6121;RO;West University of Timisoara;http://www.uvt.ro/
 6122;RS;Drzavni Univerzitet u Novom Pazaru;http://www.np.ac.rs/
@@ -6680,7 +6680,7 @@
 6680;SV;Universidad Autónoma de Santa Ana;http://www.unasa.edu.sv/
 6681;SV;Universidad Capitain General Gerardo Barrios;http://www.ugb.edu.sv/
 6682;SV;Universidad Católica de Occidente;http://www.unico.edu.sv/
-6683;SV;Universidad Centroamericana "José Simeón Canas";http://www.uca.edu.sv/
+6683;SV;"Universidad Centroamericana ""José Simeón Canas""";http://www.uca.edu.sv/
 6684;SV;Universidad Cristiana de las Asambleas de Dios;http://www.ucad.edu.sv/
 6685;SV;Universidad de El Salvador;http://www.ues.edu.sv/
 6686;SV;Universidad de Oriente;http://www.univo.edu.sv/
@@ -6698,7 +6698,7 @@
 6698;SV;Universidad Panamericana de San Salvador;http://www.upan.edu.sv/
 6699;SV;Universidad Pedagógica de El Salvador;http://www.universidadpedagogica.com/
 6700;SV;Universidad Politécnica de El Salvador;http://www.upes.edu.sv/
-6701;SV;Universidad Salvadorena "Alberto Masferrer";http://www.usam.edu.sv/
+6701;SV;"Universidad Salvadorena ""Alberto Masferrer""";http://www.usam.edu.sv/
 6702;SV;Universidad Técnica Latinoamericana;http://www.utla.edu.sv/
 6703;SV;Universidad Tecnológica de El Salvador;http://www.utec.edu.sv/
 6704;SY;Al-Baath University;http://www.albaath-univ.edu.sy/
@@ -9238,14 +9238,14 @@
 9238;VE;Universidad Nacional Abierta;http://www.una.edu.ve/
 9239;VE;Universidad Nacional Experimental de Guayana;http://www.uneg.edu.ve/
 9240;VE;Universidad Nacional Experimental de la Fuerza Armada;http://www.unefa.edu.ve/
-9241;VE;Universidad Nacional Experimental de los Llanos Occidentales "Ezequiel Zamora";http://www.unellez.edu.ve/
+9241;VE;"Universidad Nacional Experimental de los Llanos Occidentales ""Ezequiel Zamora""";http://www.unellez.edu.ve/
 9242;VE;Universidad Nacional Experimental del Táchira;http://www.unet.edu.ve/
-9243;VE;Universidad Nacional Experimental "Francisco de Miranda";http://www.unefm.edu.ve/
-9244;VE;Universidad Nacional Experimental Politécnica "Antonio José de Sucre";http://www.unexpo.edu.ve/
-9245;VE;Universidad Nacional Experimental "Rafael Maria Baralt";http://www.unermb.edu.ve/
+9243;VE;"Universidad Nacional Experimental ""Francisco de Miranda""";http://www.unefm.edu.ve/
+9244;VE;"Universidad Nacional Experimental Politécnica ""Antonio José de Sucre""";http://www.unexpo.edu.ve/
+9245;VE;"Universidad Nacional Experimental ""Rafael Maria Baralt""";http://www.unermb.edu.ve/
 9246;VE;Universidad Nacional Experimental Romulo Gallegos;http://www.unerg.edu.ve/
-9247;VE;Universidad Nacional Experimental "Simón Rodriguez";http://www.unesr.edu.ve/
-9248;VE;Universidad Nacional Experimental Sur del Lago "Jesús Maria Semprum";http://www.unesur.edu.ve/
+9247;VE;"Universidad Nacional Experimental ""Simón Rodriguez""";http://www.unesr.edu.ve/
+9248;VE;"Universidad Nacional Experimental Sur del Lago ""Jesús Maria Semprum""";http://www.unesur.edu.ve/
 9249;VE;Universidad Nueva Esparta;http://www.une.edu.ve/
 9250;VE;Universidad Pedagógica Experimental Libertador;http://www.upel.edu.ve/
 9251;VE;Universidad Rafael Urdaneta;http://www.uru.edu/

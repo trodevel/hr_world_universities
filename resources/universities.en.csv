@@ -85,13 +85,13 @@
 85;Beder University
 86;Epoka University
 87;Polytechnic University of Tirane
-88;University of Elbasan "Aleksander Xhuvani"
-89;University of Gjirokstra "Eqerem Cabej"
-90;University of Korca "Fan Noli"
+88;"University of Elbasan ""Aleksander Xhuvani"""
+89;"University of Gjirokstra ""Eqerem Cabej"""
+90;"University of Korca ""Fan Noli"""
 91;University of New York Tirana
-92;University of Shkodra "Luigj Gurakuqi"
+92;"University of Shkodra ""Luigj Gurakuqi"""
 93;University of Tirana
-94;University of Vlora "Ismail Qemali"
+94;"University of Vlora ""Ismail Qemali"""
 95;University “Pavaresia” Vlore
 96;American University of Armenia
 97;Armenian State Agrarian University
@@ -119,7 +119,7 @@
 119;Universidade Tecnica de Angola
 120;Univesidade Agostinho Neto
 121;Instituto de Enseñanza Superior del Ejército
-122;Instituto Nacional de Educación Física "General Manuel Belgrano"
+122;"Instituto Nacional de Educación Física ""General Manuel Belgrano"""
 123;Instituto Tecnológico de Buenos Aires
 124;Instituto Universitario Aeronáutico
 125;Instituto Universitario CEMA
@@ -130,7 +130,7 @@
 130;Universidad Abierta Interamericana
 131;Universidad Adventista del Plata
 132;Universidad Argentina de la Empresa
-133;Universidad Argentina "John F. Kennedy"
+133;"Universidad Argentina ""John F. Kennedy"""
 134;Universidad Atlantida Argentina
 135;Universidad Austral Buenos Aires
 136;Universidad Autónoma de Entre Ríos
@@ -158,7 +158,7 @@
 158;Universidad del Centro Educativo Latinoamericano Rosario
 159;Universidad del Cine - Buenos Aires
 160;Universidad del Museo Social Argentino
-161;Universidad del Norte "Santo Tomás de Aquino"
+161;"Universidad del Norte ""Santo Tomás de Aquino"""
 162;Universidad del Salvador
 163;Universidad de Mendoza
 164;Universidad de Morón
@@ -166,7 +166,7 @@
 166;Universidad de San Andres
 167;Universidad Empresarial Siglio 21
 168;Universidad ISALUD
-169;Universidad "Juan Agustín Maza"
+169;"Universidad ""Juan Agustín Maza"""
 170;Universidad Maimónides
 171;Universidad Nacional de Catamarca
 172;Universidad Nacional de Córdoba
@@ -180,7 +180,7 @@
 180;Universidad Nacional de Lanus
 181;Universidad Nacional de La Pampa
 182;Universidad Nacional de la Patagonia Austral
-183;Universidad Nacional de la Patagonia "San Juan Bosco"
+183;"Universidad Nacional de la Patagonia ""San Juan Bosco"""
 184;Universidad Nacional de La Plata
 185;Universidad Nacional de La Rioja
 186;Universidad Nacional del Centro de la Provincia de Buenos Aires
@@ -339,7 +339,7 @@
 339;University of Tuzla
 340;University of Zenica
 341;University Vitez In Travnik
-342;Univerzitet u Mostaru "Dzemal Bijedic"
+342;"Univerzitet u Mostaru ""Dzemal Bijedic"""
 343;University of the West Indies, Cave Hill
 344;Ahsanullah University of Science & Technology
 345;American International University - Bangladesh
@@ -463,12 +463,12 @@
 463;Vlerick Leuven Gent Management School
 464;Vrije Universiteit Brussel
 465;Université de Ouagadougou
-466;Academy of Economics "Dimitur A. Tscenov"
+466;"Academy of Economics ""Dimitur A. Tscenov"""
 467;Academy of Music, Dance and Fine Arts
 468;Agricultural University of Plovdiv
 469;American University in Bulgaria
 470;Bourgas Free University
-471;Bourgas University "Prof. Assen Zlatarov"
+471;"Bourgas University ""Prof. Assen Zlatarov"""
 472;City University Programs in Bulgaria 
 473;International University College
 474;Medical University of Sofia
@@ -476,14 +476,14 @@
 476;Medical University Plovdiv
 477;Medical University Varna
 478;Military University Shoumen
-479;National Academy for Theatre and Film Arts "Krustju Sarafov"
+479;"National Academy for Theatre and Film Arts ""Krustju Sarafov"""
 480;National Academy of Arts
-481;National Academy of Music "Pantcho Vladigerov"
+481;"National Academy of Music ""Pantcho Vladigerov"""
 482;National Sports Academy Sofia
 483;New Bulgarian University
-484;Shoumen University "Konstantin Preslavski"
-485;Sofia University "St. Kliment Ohridski"
-486;South-West University "Neofit Rilski"
+484;"Shoumen University ""Konstantin Preslavski"""
+485;"Sofia University ""St. Kliment Ohridski"""
+486;"South-West University ""Neofit Rilski"""
 487;Technical University of Gabrovo
 488;Technical University of Sofia
 489;Technical University of Varna
@@ -493,12 +493,12 @@
 493;University of Economics Varna
 494;University of Food Technology
 495;University of Forestry Sofia
-496;University of Mining and Geology "St. Ivan Rils"
+496;"University of Mining and Geology ""St. Ivan Rils"""
 497;University of National and World Economy
 498;University of Plovdiv
 499;University of Rousse
 500;Varna Free University
-501;Veliko Turnovo University "Cyril and Methodius"
+501;"Veliko Turnovo University ""Cyril and Methodius"""
 502;Al Ahlia University
 503;Ama International University
 504;Applied Science University
@@ -525,7 +525,7 @@
 525;Universidad Adventista de Bolivia
 526;Universidad Amazonica de Pando
 527;Universidad Andina Simón Bolivar
-528;Universidad Autónoma del Beni "José Ballivián"
+528;"Universidad Autónoma del Beni ""José Ballivián"""
 529;Universidad Autónoma Gabriel René Moreno
 530;Universidad Autónoma Juan Misael Saracho
 531;Universidad Autónoma Tomás Frías
@@ -960,7 +960,7 @@
 960;Swiss Federal Institute of Technology, Lausanne
 961;Swiss Federal Institute of Technology, Zurich
 962;Swiss Management Center
-963;University Center "César Ritz"
+963;"University Center ""César Ritz"""
 964;University of Applied Sciences Aargau
 965;University of Applied Sciences Basel (FHBB )
 966;University of Applied Sciences Chur
@@ -987,12 +987,12 @@
 987;Pontificia Universidad Catolica de Chile
 988;Universidad Academia de Humanismo Cristiano
 989;Universidad Academia de Humanismo Cristiano
-990;Universidad "Adolfo Ibañez"
+990;"Universidad ""Adolfo Ibañez"""
 991;Universidad Adolfo Ibáñez
 992;Universidad Adventista de Chile
 993;Universidad Alberto Hurtado
 994;Universidad Arcis
-995;Universidad "Arturo Prat"
+995;"Universidad ""Arturo Prat"""
 996;Universidad Austral de Chile
 997;Universidad Autonoma del Sur
 998;Universidad Bernardo O'Higgins
@@ -1045,9 +1045,9 @@
 1045;Universidad Nacional Andrés Bello
 1046;Universidad San Sebastian
 1047;Universidad Santo Tomás
-1048;Universidad Técnica "Federico Santa María"
+1048;"Universidad Técnica ""Federico Santa María"""
 1049;Universidad Tecnológica Metropolitana
-1050;Universidad Tecnologica "Vicente Perez Rosales"
+1050;"Universidad Tecnologica ""Vicente Perez Rosales"""
 1051;Bamenda University of Science & Technology
 1052;Fomic Polytechnic
 1053;Université de Bamenda
@@ -1450,7 +1450,7 @@
 1450;Centro de Estudios Investigación y Tecnología (CEIT)
 1451;Colegio de Estudios Superiores de Administración (CESA)
 1452;Conservatorio del Tolima
-1453;Corporación Educativa Mayor del Desarrollo "Simón Bolivar"
+1453;"Corporación Educativa Mayor del Desarrollo ""Simón Bolivar"""
 1454;Corporación Universitaria de Ibagué (CORUNIVERSITARIA)
 1455;Corporación Universitaria de la Costa (UNICOSTA)
 1456;Corporación Universitaria de Santander (UDES)
@@ -1459,7 +1459,7 @@
 1459;Escuela Colombiana de Ingeniería Julio Garavito
 1460;Escuela de Administración de Negocios
 1461;Escuela de Ingeniería de Antioquia
-1462;Escuela de Policia "General Santander"
+1462;"Escuela de Policia ""General Santander"""
 1463;Escuela Superiore de Administración Pública
 1464;Fundacion Escuela Colombiana de Rehabiliación
 1465;Fundación Universitaria de Boyacá
@@ -1471,7 +1471,7 @@
 1471;Institución Universitaria Iberoamericana
 1472;Instituto Tecnológico Metropolitano
 1473;Instituto Universitario de La Paz
-1474;Politécnico Columbiano "Jaime Isaza Cadavid"
+1474;"Politécnico Columbiano ""Jaime Isaza Cadavid"""
 1475;Politécnico Grancolombiano - Institución Universitaria
 1476;Pontificia Universidad Javeriana
 1477;Universidad Adventista de Colombia
@@ -1496,7 +1496,7 @@
 1496;Universidad de América Bogotá
 1497;Universidad de Antioquia
 1498;Universidad de Antioquía
-1499;Universidad de Bogotá "Jorge Tadeo Lozano"
+1499;"Universidad de Bogotá ""Jorge Tadeo Lozano"""
 1500;Universidad de Caldas
 1501;Universidad de Cartagena
 1502;Universidad de Ciencias Aplicadas y Ambientales (UDCA)
@@ -1523,7 +1523,7 @@
 1523;Universidad de San Buenaventura
 1524;Universidad de San Buenaventura Medellin
 1525;Universidad de Sucre
-1526;Universidad Distral "Francisco José de Caldas"
+1526;"Universidad Distral ""Francisco José de Caldas"""
 1527;Universidad EAFIT
 1528;Universidad El Bosque
 1529;Universidad Externado de Colombia
@@ -1547,7 +1547,7 @@
 1547;Universidad Santo Tomás
 1548;Universidad Sergio Arboleda
 1549;Universidad Surcolombiana
-1550;Universidad Tecnológica del Choco "Diego Luis Cordoba"
+1550;"Universidad Tecnológica del Choco ""Diego Luis Cordoba"""
 1551;Universidad Tecnológica de Pereira
 1552;Instituto Tecnológico de Costa Rica
 1553;Universidad Adventista de Centro América
@@ -1581,7 +1581,7 @@
 1581;Universidad Santa Paula
 1582;Universidad Veritas
 1583;University for Peace
-1584;Instituto Superior Minero Metalúrgico "Dr. Antonio Núñez Jiménez"
+1584;"Instituto Superior Minero Metalúrgico ""Dr. Antonio Núñez Jiménez"""
 1585;Instituto Superior Politécnico José Antonio Echeverría
 1586;Universidad Central de Las Villas
 1587;Universidad de Camagüey
@@ -1593,7 +1593,7 @@
 1593;Universidad de Matanzas Camilo Cienfuegos
 1594;Universidad de Oriente
 1595;Universidad de Pinar del Río
-1596;Universidad Pedagógica "José Martí", Camagüey
+1596;"Universidad Pedagógica ""José Martí"", Camagüey"
 1597;Universidade Jean Piaget de Cabo Verde
 1598;Americanos College
 1599;Cyprus College
@@ -1671,7 +1671,7 @@
 1671;Evangelische Fachhochschule Darmstadt
 1672;Evangelische Fachhochschule Freiburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik
 1673;Evangelische Fachhochschule für Religionspädagogik, und Gemeindediakonie Moritzburg
-1674;Evangelische Fachhochschule für Sozialpädagogik der "Diakonenanstalt des Rauhen Hauses" Hamburg
+1674;"Evangelische Fachhochschule für Sozialpädagogik der ""Diakonenanstalt des Rauhen Hauses"" Hamburg"
 1675;Evangelische Fachhochschule Hannover
 1676;Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen
 1677;Evangelische Fachhochschule Nürnberg
@@ -2038,8 +2038,8 @@
 2038;Universidad Estatal de Bolívar
 2039;Universidad Internacional del Ecuador
 2040;Universidad Internacional SEK, Quito
-2041;Universidad Laica "Eloy Alfaro" de Manabi
-2042;Universidad Laica "Vicente Rocafuerte" de Guayaquil
+2041;"Universidad Laica ""Eloy Alfaro"" de Manabi"
+2042;"Universidad Laica ""Vicente Rocafuerte"" de Guayaquil"
 2043;Universidad Nacional de Chimborazo
 2044;Universidad Nacional de Loja
 2045;Universidad Politécnica Salesiana
@@ -2048,7 +2048,7 @@
 2048;Universidad Técnica de Ambato
 2049;Universidad Técnica de Babahoyo
 2050;Universidad Técnica de Cotopaxi
-2051;Universidad Técnica de Esmeraldas "Luis Vargas Torres"
+2051;"Universidad Técnica de Esmeraldas ""Luis Vargas Torres"""
 2052;Universidad Técnica del Norte
 2053;Universidad Técnica de Machala
 2054;Universidad Técnica de Manabí
@@ -2828,7 +2828,7 @@
 2828;Universidad José Cecilio del Valle
 2829;Universidad Metropolitana de Honduras
 2830;Universidad Nacional Autónoma de Honduras
-2831;Universidad Pedagógica Nacional "Francisco Morazán"
+2831;"Universidad Pedagógica Nacional ""Francisco Morazán"""
 2832;Universidad Tecnológica Centroamericana
 2833;Universidad Tecnológica de Honduras
 2834;University of Dubrovnik
@@ -3025,7 +3025,7 @@
 3025;Universitas Pattimura
 3026;Universitas Pekalongan
 3027;Universitas Pelita Harapan
-3028;Universitas Pembangunan Nasional "Veteran" East Java
+3028;"Universitas Pembangunan Nasional ""Veteran"" East Java"
 3029;Universitas Pembangunan Panca Budi
 3030;Universitas Pendidikan Indonesia
 3031;Universitas Persada Indonesia Y.A.I
@@ -3728,8 +3728,8 @@
 3728;European University Institute
 3729;Fondazione Sacro Cuore
 3730;Free International University of Social Studies
-3731;Free University Institute "Carlo Cattaneo"
-3732;Free University "Maria Santissima Assunta"
+3731;"Free University Institute ""Carlo Cattaneo"""
+3732;"Free University ""Maria Santissima Assunta"""
 3733;Free University of Bozen
 3734;Higher School of University and Advanced Studies Pisa
 3735;Institute for Advanced Studies Lucca
@@ -3757,7 +3757,7 @@
 3757;University Institute of Modern Languages
 3758;University Institute of Naval Studies
 3759;University Institute of Oriental Studies
-3760;University Institute of Teacher Training "Suor Orsola Benincasa"
+3760;"University Institute of Teacher Training ""Suor Orsola Benincasa"""
 3761;University of Ancona
 3762;University of Aquila
 3763;University of Bari
@@ -3794,8 +3794,8 @@
 3794;University of Perugia
 3795;University of Pisa
 3796;University of Reggio Calabria
-3797;University of Roma "La Sapienza"
-3798;University of Roma "Tor Vergata"
+3797;"University of Roma ""La Sapienza"""
+3798;"University of Roma ""Tor Vergata"""
 3799;University of Salerno
 3800;University of Sannio
 3801;University of Sassari
@@ -4822,15 +4822,15 @@
 4822;Université Sidi Mohammed Ben Abdellah
 4823;University of Southern Europe (Monaco Business School)
 4824;Academy of Economic Studies of Moldova
-4825;Balti State University "Alecu Russo"
+4825;"Balti State University ""Alecu Russo"""
 4826;Comrat State University
 4827;Free International University of Moldova
 4828;Moldova Cooperative Trade University
 4829;Moldova State Agricultural University
 4830;Moldova State University
-4831;Moldova State University of Medicine and Pharmacy "N. Testemitsanu"
+4831;"Moldova State University of Medicine and Pharmacy ""N. Testemitsanu"""
 4832;Moldova Technical University
-4833;Pedagogical State University "Ion Creanga"
+4833;"Pedagogical State University ""Ion Creanga"""
 4834;Tiraspol State University
 4835;University of Applied Sciences of Moldova
 4836;University of Montenegro
@@ -4845,7 +4845,7 @@
 4845;State University of Tetova
 4846;St.Cyril and Methodius University
 4847;St.Kliment Ohridski University
-4848;University for Information Science and Technology  "St. Paul The Apostle" 
+4848;"University for Information Science and Technology  ""St. Paul The Apostle"" "
 4849;University Goce Delcev
 4850;Université de Bamako
 4851;International Theravada Buddhist Missionary University
@@ -4939,8 +4939,8 @@
 4939;Tecnologico de Baja California, Universidad
 4940;Universidad Anáhuac
 4941;Universidad Anáhuac del Sur
-4942;Universidad Autónoma Agraria "Antonio Narro"
-4943;Universidad Autónoma "Benito Juárez" de Oaxaca
+4942;"Universidad Autónoma Agraria ""Antonio Narro"""
+4943;"Universidad Autónoma ""Benito Juárez"" de Oaxaca"
 4944;Universidad Autónoma de Aguascalientes
 4945;Universidad Autónoma de Baja California
 4946;Universidad Autónoma de Baja California Sur
@@ -5347,7 +5347,7 @@
 5347;Western Delta University
 5348;Yaba College of Technology
 5349;Universidad Americana
-5350;Universidad Catolica "Redemptoris Mater"
+5350;"Universidad Catolica ""Redemptoris Mater"""
 5351;Universidad Central de Nicaragua
 5352;Universidad Centroamericana
 5353;Universidad Centroamericana de Ciencias Empresariales (UCEM)
@@ -5836,7 +5836,7 @@
 5836;Fine Arts Academy in Poznan
 5837;Fine Arts Academy in Warsaw
 5838;Fine Arts Academy in Wroclaw
-5839;Fine Arts Academy "Jan Matejko" in Cracow
+5839;"Fine Arts Academy ""Jan Matejko"" in Cracow"
 5840;Fine Arts Academy Wladyslaw Strzeminski in Lodz
 5841;French Institute of Management
 5842;Gdansk Management College
@@ -5862,14 +5862,14 @@
 5862;Medical Academy in Wroclaw
 5863;Medical Academy Karol Marcinkowski in Poznan
 5864;Medical Academy Ludwik Rydygier in Bydgoszcz
-5865;Music Academy "Felix Nowowiejski" in Bydgoszcz
-5866;Music Academy "Fryderyk Chopin" in Warszaw
-5867;Music Academy "Ignacy Jana Paderewski" in Poznan
+5865;"Music Academy ""Felix Nowowiejski"" in Bydgoszcz"
+5866;"Music Academy ""Fryderyk Chopin"" in Warszaw"
+5867;"Music Academy ""Ignacy Jana Paderewski"" in Poznan"
 5868;Music Academy in Cracow
 5869;Music Academy in Lodz
-5870;Music Academy "Karol Lipinski" in Wroclaw
-5871;Music Academy "Karol Szymanowski" in Katowice
-5872;Music Academy "Stanislaw Moniuszko" in Gdansk
+5870;"Music Academy ""Karol Lipinski"" in Wroclaw"
+5871;"Music Academy ""Karol Szymanowski"" in Katowice"
+5872;"Music Academy ""Stanislaw Moniuszko"" in Gdansk"
 5873;Nicolaus Copernicus University of Torun
 5874;Pawel Wlodkowic University College in Plock
 5875;Pedagogical University of Bydgoszcz
@@ -5880,11 +5880,11 @@
 5880;Pedagogical University of Slupsk
 5881;Pedagogical University of the Polish Association for Adult Education in Warsaw
 5882;Pedagogical University of Zielona Gora
-5883;Physical Education Academy "Eugeniusz Piasecki" in Poznan
+5883;"Physical Education Academy ""Eugeniusz Piasecki"" in Poznan"
 5884;Physical Education Academy in Katowice
 5885;Physical Education Academy in Wroclaw
-5886;Physical Education Academy "Jedrzej Sniadecki" in Gdansk
-5887;Physical Education Academy "Jozef Pilsudski" in Warsaw
+5886;"Physical Education Academy ""Jedrzej Sniadecki"" in Gdansk"
+5887;"Physical Education Academy ""Jozef Pilsudski"" in Warsaw"
 5888;Polish-Japanese Institute of Information Technology in Warsaw
 5889;Polish Open University in Warsaw (WSZ/POU)
 5890;Polonia University in Czêstochowa
@@ -6060,14 +6060,14 @@
 6060;1 December University of Alba Iulia
 6061;Academia de Studii Economice din Bucuresti
 6062;Academia Tehnica Militara
-6063;Academy of Arts "George Enescu" Iasi
-6064;Academy of Music "Georghe Dima" Cluj-Napoca
+6063;"Academy of Arts ""George Enescu"" Iasi"
+6064;"Academy of Music ""Georghe Dima"" Cluj-Napoca"
 6065;AISTEDA
 6066;Babes-Bolyai University of Cluj-Napoca
 6067;Banat's University of Agricultural Sciences
 6068;Constantin Brancoveanu University Pitesti
 6069;Emanuel University
-6070;Institute of Architecture "Ion Mincu" Bucharest
+6070;"Institute of Architecture ""Ion Mincu"" Bucharest"
 6071;Maritime University Constanta
 6072;National Academy for Physical Education and Sports Bucharest
 6073;National School of Political and Administrative Studies Bucharest
@@ -6084,8 +6084,8 @@
 6084;Technical University of Cluj-Napoca
 6085;Technical University of Iasi
 6086;Technical University of Timisoara
-6087;Universitatea de Vest "Vasile Goldiş" 
-6088;University "Aurel Vlaicu" Arad
+6087;"Universitatea de Vest ""Vasile Goldiş"" "
+6088;"University ""Aurel Vlaicu"" Arad"
 6089;University Lucian Blaga of Sibiu
 6090;University of Agriculture and Veterinary Medicine Bucharest
 6091;University of Agriculture and Veterinary Medicine Cluj-Napoca
@@ -6113,10 +6113,10 @@
 6113;University of Suceava
 6114;University of Targu Jiu
 6115;University Oil- Gas Ploiesti
-6116;University "Petre Andrei" Iasi
+6116;"University ""Petre Andrei"" Iasi"
 6117;University Politehnica of Bucharest
-6118;University "Titu Maiorescu"
-6119;University "Transilvany" of Brasov
+6118;"University ""Titu Maiorescu"""
+6119;"University ""Transilvany"" of Brasov"
 6120;Valahia University of Targoviste
 6121;West University of Timisoara
 6122;Drzavni Univerzitet u Novom Pazaru
@@ -6680,7 +6680,7 @@
 6680;Universidad Autónoma de Santa Ana
 6681;Universidad Capitain General Gerardo Barrios
 6682;Universidad Católica de Occidente
-6683;Universidad Centroamericana "José Simeón Canas"
+6683;"Universidad Centroamericana ""José Simeón Canas"""
 6684;Universidad Cristiana de las Asambleas de Dios
 6685;Universidad de El Salvador
 6686;Universidad de Oriente
@@ -6698,7 +6698,7 @@
 6698;Universidad Panamericana de San Salvador
 6699;Universidad Pedagógica de El Salvador
 6700;Universidad Politécnica de El Salvador
-6701;Universidad Salvadorena "Alberto Masferrer"
+6701;"Universidad Salvadorena ""Alberto Masferrer"""
 6702;Universidad Técnica Latinoamericana
 6703;Universidad Tecnológica de El Salvador
 6704;Al-Baath University
@@ -9238,14 +9238,14 @@
 9238;Universidad Nacional Abierta
 9239;Universidad Nacional Experimental de Guayana
 9240;Universidad Nacional Experimental de la Fuerza Armada
-9241;Universidad Nacional Experimental de los Llanos Occidentales "Ezequiel Zamora"
+9241;"Universidad Nacional Experimental de los Llanos Occidentales ""Ezequiel Zamora"""
 9242;Universidad Nacional Experimental del Táchira
-9243;Universidad Nacional Experimental "Francisco de Miranda"
-9244;Universidad Nacional Experimental Politécnica "Antonio José de Sucre"
-9245;Universidad Nacional Experimental "Rafael Maria Baralt"
+9243;"Universidad Nacional Experimental ""Francisco de Miranda"""
+9244;"Universidad Nacional Experimental Politécnica ""Antonio José de Sucre"""
+9245;"Universidad Nacional Experimental ""Rafael Maria Baralt"""
 9246;Universidad Nacional Experimental Romulo Gallegos
-9247;Universidad Nacional Experimental "Simón Rodriguez"
-9248;Universidad Nacional Experimental Sur del Lago "Jesús Maria Semprum"
+9247;"Universidad Nacional Experimental ""Simón Rodriguez"""
+9248;"Universidad Nacional Experimental Sur del Lago ""Jesús Maria Semprum"""
 9249;Universidad Nueva Esparta
 9250;Universidad Pedagógica Experimental Libertador
 9251;Universidad Rafael Urdaneta
