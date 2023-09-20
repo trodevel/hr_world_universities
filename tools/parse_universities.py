@@ -5,8 +5,8 @@ def read_file( filename: str, outp_filename: str, outp_2_filename: str ):
 
     i = 0
 
-    f = open( outp_filename, "w" )
-    f2 = open( outp_2_filename, "w" )
+    f = csv.writer( open( outp_filename, "w" ), delimiter=';', lineterminator='\n' )
+    f2 = csv.writer( open( outp_2_filename, "w" ), delimiter=';', lineterminator='\n' )
 
     with open( filename ) as csvfile:
         reader = csv.reader( csvfile, delimiter=',' )
@@ -16,8 +16,8 @@ def read_file( filename: str, outp_filename: str, outp_2_filename: str ):
 
             name = html.unescape( name_enc )
 
-            f.write( f"{i};{country};{name};{url}\n" )
-            f2.write( f"{i};{name}\n" )
+            f.writerow( ( i, country, name, url ) )
+            f2.writerow( ( i, name ) )
 
     print( f"INFO: read {i} records from {filename}, wrote result to {outp_filename}" )
 
