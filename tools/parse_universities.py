@@ -1,4 +1,5 @@
 import csv
+import html
 
 def read_file( filename: str, outp_filename: str, outp_2_filename: str ):
 
@@ -11,7 +12,10 @@ def read_file( filename: str, outp_filename: str, outp_2_filename: str ):
         reader = csv.reader( csvfile, delimiter=',' )
         for row in reader:
             i += 1
-            ( country, name, url ) = row[0:3]
+            ( country, name_enc, url ) = row[0:3]
+
+            name = html.unescape( name_enc )
+
             f.write( f"{i};{country};{name};{url}\n" )
             f2.write( f"{i};{name}\n" )
 
